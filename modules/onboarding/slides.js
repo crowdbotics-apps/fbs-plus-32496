@@ -21,8 +21,8 @@ export const slides = [
   },
   // {
   //   key: 'three',
-  //   title: 'Rocket guy',
-  //   text: 'I\'m already out of descriptions\n\nLorem ipsum bla bla bla',
+  //   title: 'I Wanna Get Into It!',
+  //   text: 'Alright, Let's Get Into It!',
   //   image: require('./assets/3.jpg'),
   //   backgroundColor: '#22bcb5',
   // }
