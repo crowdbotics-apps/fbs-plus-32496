@@ -11,8 +11,8 @@ export const slides = [
   },
   {
     key: 'two',
-    title: 'Title 2',
-    text: 'Other cool stuff',
+    title: 'So, Get It Out Of The Way, How Much Does It Cost?',
+    text: 'Right Now, FBS+ Is 100% Free! So Parents Will Never Have To Worry!',
     image: {
       uri:
         'https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png',
