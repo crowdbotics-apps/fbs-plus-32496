@@ -1,8 +1,8 @@
 export const slides = [
   {
     key: 'one',
-    title: 'Title 1',
-    text: 'Description.\nSay something cool',
+    title: 'Welcome To FBS+',
+    text: 'Sure, This Was Made By Kids, But It Is Pretty Cool, With All The Content We Have!',
     image: {
       uri:
         'https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png',
